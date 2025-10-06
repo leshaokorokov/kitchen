@@ -1090,7 +1090,7 @@ hr{
 }
 
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 480px){
     .burger-menu{
         display: block;
     }
@@ -1309,8 +1309,9 @@ h4{
 }
 .discount img{
     display: block;
-    width: 320px;
-    height: 360px;
+    width: 100%;
+    max-width: 480px;
+    height: auto;
     margin-top: 76px;
     margin-bottom: 22px;
     object-fit: cover;
@@ -1426,7 +1427,8 @@ h4{
 .installment__blocks{
     margin-top: 28px;
     display: block;
-    width: 320px;
+    max-width: 480px;
+    width: 100%;
 }
 .installment__block{
     width: 100%;
