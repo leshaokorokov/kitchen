@@ -1497,6 +1497,7 @@ h4{
 .process h4{
     margin-bottom: 10px;
     text-align: center;
+    max-width: 296px;
 }
 .process__cards{
     margin-top: 40px;
@@ -1546,6 +1547,7 @@ h4{
 }
 .errors h4{
     margin-bottom: 10px;
+    max-width: 296px;
 }
 .errors__cards{
     margin-top: 30px;
